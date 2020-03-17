@@ -11,6 +11,8 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 ## Results  
 Results of our model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP and DUT-RGBD) can be found:
 链接: https://pan.baidu.com/s/1NGaoZbmPKDr1auMtO0syFQ 提取码: osnf  
+or:
+https://drive.google.com/XXXXXXXX
 
 References  
   [NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.  
@@ -23,6 +25,8 @@ References
 ## Dataset
 Our training dataset is  
 链接: https://pan.baidu.com/s/1uF6LxbH0RIcMFN71cEcGHQ 提取码: 5z48  
+or:    
+https://drive.google.com/XXXXXXXX
 
 ## Citation
 Please cite our paper if you find the work useful: 
