@@ -36,6 +36,15 @@ Please cite our paper if you find the work useful:
   year={2020}
 }
 
+If you use these models in your research, please cite:
+
+	@article{He2015,
+		author = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+		title = {Deep Residual Learning for Image Recognition},
+		journal = {arXiv preprint arXiv:1512.03385},
+		year = {2015}
+	}
+  
 ### Benchmark RGB-D SOD:
 
 The complete RGB-D SOD benchmark can be found in this page:
