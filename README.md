@@ -11,7 +11,11 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 
 # Results:
 
-Results of our model on 7 benchmark datasets can be found: 
+Results of our model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP and DUT-RGBD) can be found:
+
+References
+[NJU2K]
+
 
 # Dataset:
 
@@ -28,7 +32,7 @@ Please cite our paper if you find the work useful:
   year={2020}
 }
 
-# Benchmark RGB-D SOD
+# Benchmark RGB-D SOD:
 
 The complete RGB-D SOD benchmark can be found in this page:
 
