@@ -28,6 +28,7 @@ Our training dataset is:
 ### Bib:
 
 Please cite our paper if you find the work useful:
+
 	@inproceedings{Fu2020JLDCF,
   	title={JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection},
   	author={Fu, Keren and Fan, Deng-Ping and Ji, Ge-Peng and Zhao, Qijun},
