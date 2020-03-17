@@ -14,6 +14,7 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 Results of our model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP and DUT-RGBD) can be found:
 
 References
+
 	[NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.
 	[NLPR] Rgbd salient object detection: A benchmark and algorithms. In ECCV 2014.
 	[STERE] Leveraging stereopsis for saliency analysis. In CVPR 2012.
@@ -25,7 +26,7 @@ References
 
 Our training dataset is:
 
-### Bib:
+### Citation:
 
 Please cite our paper if you find the work useful:
 
