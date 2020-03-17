@@ -34,5 +34,5 @@ Please cite our paper if you find the work useful:
 	}
   
 ### Benchmark RGB-D SOD
-The complete RGB-D SOD benchmark can be found in this page
+The complete RGB-D SOD benchmark can be found in this page  
 http://dpfan.net/d3netbenchmark/
