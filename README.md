@@ -9,7 +9,7 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 ![alt text](./JL-DCF_results.png)
 
 ## Results  
-Results of our JL-DCF model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP, DUT-RGBD) can be found:  
+Results of our JL-DCF model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP, DUT-RGBD) can be found below:  
 链接: https://pan.baidu.com/s/1NGaoZbmPKDr1auMtO0syFQ 提取码: osnf  
 or:  
 https://drive.google.com/XXXXXXXX
