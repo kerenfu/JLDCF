@@ -18,7 +18,7 @@ References
   [NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.  
   [NLPR] Rgbd salient object detection: A benchmark and algorithms. In ECCV 2014.  
   [STERE] Leveraging stereopsis for saliency analysis. In CVPR 2012.  
-  [RGBD135] Depth enhanced saliency detection method. In International Conference on Internet Multimedia Computing and Service. ACM, 2014. 
+  [RGBD135] Depth enhanced saliency detection method. In International Conference on Internet Multimedia Computing and Service. ACM, 2014.  
   [LFSD] Saliency detection on light field. In CVPR 2014.  
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.
