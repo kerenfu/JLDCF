@@ -1,6 +1,5 @@
 # JL-DCF (CVPR2020)
-JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection 
-
+JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection   
 (Code will come soon...)
 
 ![alt text](./JL-DCF_framework.png)
@@ -9,10 +8,9 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 
 ![alt text](./JL-DCF_results.png)
 
-### Results:
-
+## Results:  
 Results of our model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP and DUT-RGBD) can be found:
-
+XXXXXXXXXXXXXXXXXX  
 References  
   [NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.  
   [NLPR] Rgbd salient object detection: A benchmark and algorithms. In ECCV 2014.  
@@ -21,12 +19,11 @@ References
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV, 2019.
 
-### Dataset:
+## Dataset:  
+Our training dataset is
+XXXXXXXXXX  
 
-Our training dataset is:
-
-### Citation:
-
+## Citation
 Please cite our paper if you find the work useful:
 
 	@inproceedings{Fu2020JLDCF,
@@ -36,8 +33,6 @@ Please cite our paper if you find the work useful:
   	year={2020}
 	}
   
-### Benchmark RGB-D SOD:
-
-The complete RGB-D SOD benchmark can be found in this page:
-
+### Benchmark RGB-D SOD
+The complete RGB-D SOD benchmark can be found in this page
 http://dpfan.net/d3netbenchmark/
