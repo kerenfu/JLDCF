@@ -20,7 +20,7 @@ References
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV, 2019.
 
 ## Dataset
-Our training dataset is
+Our training dataset is  
 链接: https://pan.baidu.com/s/1uF6LxbH0RIcMFN71cEcGHQ 提取码: 5z48  
 
 ## Citation
