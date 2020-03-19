@@ -14,14 +14,14 @@ Results of our JL-DCF model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135
 or:  
 https://drive.google.com/open?id=1I_2i5XbjTdAVfgOh4wpfV3EuqVaXRQH0
 
-References  
+References of datasets:  
+  [STERE] Leveraging stereopsis for saliency analysis. In CVPR 2012.  
   [NJU2K] Depth saliency based on anisotropic centersurround difference. In ICIP 2014.  
   [NLPR] Rgbd salient object detection: A benchmark and algorithms. In ECCV 2014.  
-  [STERE] Leveraging stereopsis for saliency analysis. In CVPR 2012.  
   [RGBD135] Depth enhanced saliency detection method. In International Conference on Internet Multimedia Computing and Service. ACM, 2014.  
   [LFSD] Saliency detection on light field. In CVPR 2014.  
+  [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.  
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
-  [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.
 
 ## Dataset
 Our training dataset is  
