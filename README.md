@@ -12,9 +12,9 @@ The original implementation of JL-DCF is Caffe.
 
 STEP1: To run the code, you should first install Caffe and also its MATLAB Interface. 
 
-Suggested Caffe version from Github 
-For Linux: https://github.com/BVLC/caffe 
-For Windows: https://github.com/BVLC/caffe/tree/windows OR https://github.com/happynear/caffe-windows (the latter works more easily with Visual Studio project *.sln and is recommended to run our code for Windows users) 
+Suggested Caffe version from Github  
+For Linux: https://github.com/BVLC/caffe  
+For Windows: https://github.com/BVLC/caffe/tree/windows OR https://github.com/happynear/caffe-windows (the latter works more easily with Visual Studio project *.sln and is recommended to run our code for Windows users)  
 
 Note that standard Caffe is enough for running our code! 
 
