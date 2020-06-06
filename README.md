@@ -10,7 +10,7 @@ JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salien
 ## Usage
 The original implementation of JL-DCF is Caffe. 
 
-STEP1: To run the code, you should first install Caffe and also its MATLAB Interface. 
+1. STEP1: To run the code, you should first install Caffe and also its MATLAB Interface. 
 
 Suggested Caffe version from Github  
 For Linux: https://github.com/BVLC/caffe  
@@ -18,13 +18,13 @@ For Windows: https://github.com/BVLC/caffe/tree/windows OR https://github.com/ha
 
 Note that standard Caffe is enough for running our code! 
 
-STEP2: Download the model of JL-DCF from the following links and have it in the "models" folder. 
+2. STEP2: Download the model of JL-DCF from the following links and have it in the "models" folder. 
 链接：https://pan.baidu.com/s/1hHckF5PPtFXM52GaYNeuOw 提取码：nvoi
 or:  
 https://drive.google.com/open?id=185L3uULu0-GKWyLxE6S8X79pYYj6JUOg
 
 
-STEP3: Open MATLAB, run demo_JLDCF.m and get the results in "results" folder.
+3. STEP3: Open MATLAB, run demo_JLDCF.m and get the results in "results" folder.
 
 ## Results  
 Results of our JL-DCF model on 7 benchmark datasets (NJU2K, NLPR, STERE, RGBD135, LFSD, SIP, DUT-RGBD) can be found below:  
