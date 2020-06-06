@@ -1,12 +1,12 @@
 # JL-DCF (CVPR 2020)
 JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection   
-(Code will come soon...)
+(Testing code is released！)
 
-![alt text](./JL-DCF_framework.png)
+![alt text](./figures/JL-DCF_framework.png)
 
-![alt text](./JL-DCF_visual_comparisons.png)
+![alt text](./figures/JL-DCF_visual_comparisons.png)
 
-![alt text](./JL-DCF_results.png)
+![alt text](./figures/JL-DCF_results.png)
 ## Usage
 The original implementation of JL-DCF is Caffe. The code can run on both Windows and Linux, depending on which OS you are using. It has been tested on Linux (with Ubuntu 16.04, CUDA-10, Cudnn-7.6, Matlab 2015b) and also Windows 10 (with CUDA-9, Cudnn-7.6, Matlab 2018a, Visual Studio 2015). It should also work on other configurations (better on CUDA-8.0+, Cudnn-5.0+, and Matlab 2013a+) but we didn't try.
 
