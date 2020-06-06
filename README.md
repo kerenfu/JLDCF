@@ -18,10 +18,10 @@ The original implementation of JL-DCF is Caffe.
 
     Note that standard Caffe is enough for running our code! 
 
-2. STEP2: Download the model of JL-DCF from the following links and have it in the "models" folder. 
-    链接：https://pan.baidu.com/s/1hHckF5PPtFXM52GaYNeuOw 提取码：nvoi
+2. STEP2: Download the model of JL-DCF from the following links and have it in the "models" folder.  
+    链接：https://pan.baidu.com/s/1hHckF5PPtFXM52GaYNeuOw 提取码：nvoi  
     or:  
-    https://drive.google.com/open?id=185L3uULu0-GKWyLxE6S8X79pYYj6JUOg
+    https://drive.google.com/open?id=185L3uULu0-GKWyLxE6S8X79pYYj6JUOg  
 
 
 3. STEP3: Open MATLAB, run demo_JLDCF.m and get the results in "results" folder.
