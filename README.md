@@ -12,16 +12,16 @@ The original implementation of JL-DCF is Caffe.
 
 1. STEP1: To run the code, you should first install Caffe and also its MATLAB Interface. 
 
-Suggested Caffe version from Github  
-For Linux: https://github.com/BVLC/caffe  
-For Windows: https://github.com/BVLC/caffe/tree/windows OR https://github.com/happynear/caffe-windows (the latter works more easily with Visual Studio project *.sln and is recommended to run our code for Windows users)  
+    Suggested Caffe version from Github  
+    For Linux: https://github.com/BVLC/caffe  
+    For Windows: https://github.com/BVLC/caffe/tree/windows OR https://github.com/happynear/caffe-windows (the latter works more easily with Visual Studio project *.sln and is recommended to run our code for Windows users)  
 
-Note that standard Caffe is enough for running our code! 
+    Note that standard Caffe is enough for running our code! 
 
 2. STEP2: Download the model of JL-DCF from the following links and have it in the "models" folder. 
-链接：https://pan.baidu.com/s/1hHckF5PPtFXM52GaYNeuOw 提取码：nvoi
-or:  
-https://drive.google.com/open?id=185L3uULu0-GKWyLxE6S8X79pYYj6JUOg
+    链接：https://pan.baidu.com/s/1hHckF5PPtFXM52GaYNeuOw 提取码：nvoi
+    or:  
+    https://drive.google.com/open?id=185L3uULu0-GKWyLxE6S8X79pYYj6JUOg
 
 
 3. STEP3: Open MATLAB, run demo_JLDCF.m and get the results in "results" folder.
