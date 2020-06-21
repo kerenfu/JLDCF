@@ -1,6 +1,8 @@
 # JL-DCF (CVPR 2020)
 JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection   
-(Testing code is released！)
+(Testing code is released!)
+
+(Training code comes soon...)
 
 ![alt text](./figures/JL-DCF_framework.png)
 
