@@ -55,6 +55,7 @@ Please cite our paper if you find the work useful:
   	title={JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection},
   	author={Fu, Keren and Fan, Deng-Ping and Ji, Ge-Peng and Zhao, Qijun},
   	booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  	pages={3052--3062},
   	year={2020}
 	}
   
