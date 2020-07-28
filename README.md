@@ -1,7 +1,7 @@
 # JL-DCF (CVPR 2020)
 JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection   
 -Testing code is released!  
--**News!** The Pytorch implementation (training & testing) of JL-DCF is now released. Please step to the corresponding [Project Page](https://github.com/jiangyao-scu/JL-DCF-pytorch) for more information.
+-**News!!!** The Pytorch implementation (training & testing) of JL-DCF is now released. Please step to the corresponding [Project Page](https://github.com/jiangyao-scu/JL-DCF-pytorch) for more information.
 
 ![alt text](./figures/JL-DCF_framework.png)
 
