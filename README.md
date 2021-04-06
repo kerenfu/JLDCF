@@ -62,7 +62,7 @@ Please cite our paper if you find the work useful:
         
 	@article{Fu2021siamese,
   	title={Siamese Network for RGB-D Salient Object Detection and Beyond},
-  	author={Fu, Keren and Fan, Deng-Ping and Ji, Ge-Peng and Zhao, Qijun and Shen, Jianbing},
+  	author={Fu, Keren and Fan, Deng-Ping and Ji, Ge-Peng and Zhao, Qijun and Shen, Jianbing and Zhu, Ce},
   	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   	year={2021}
 	}
