@@ -1,5 +1,6 @@
-# JL-DCF (CVPR 2020)
-JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)][[中文版](http://dpfan.net/wp-content/uploads/cvpr2020JLDCF_CameraReady_Chinese_final.pdf)]   
+# JL-DCF (CVPR 2020, TPAMI 2021)
+JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)][[中文版](http://dpfan.net/wp-content/uploads/cvpr2020JLDCF_CameraReady_Chinese_final.pdf)]  
+Siamese Network for RGB-D Salient Object Detection and Beyond [[PDF](https://arxiv.org/pdf/2008.12134.pdf)]  
 -Testing code is released!  
 -:fire:**News!!!**:fire: The Pytorch implementation (**Training & Testing**) of JL-DCF is now released! Please step to the new [Project Page](https://github.com/jiangyao-scu/JL-DCF-pytorch) for more information.
 
@@ -58,7 +59,13 @@ Please cite our paper if you find the work useful:
   	pages={3052--3062},
   	year={2020}
 	}
-  
+        
+	@article{Fu2021siamese,
+  	title={Siamese Network for RGB-D Salient Object Detection and Beyond},
+  	author={Fu, Keren and Fan, Deng-Ping and Ji, Ge-Peng and Zhao, Qijun and Shen, Jianbing},
+  	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  	year={2021}
+	}
 ## Benchmark RGB-D SOD
 The complete RGB-D SOD benchmark can be found in this page  
 http://dpfan.net/d3netbenchmark/
