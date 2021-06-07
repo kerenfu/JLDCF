@@ -43,12 +43,11 @@ References of datasets:
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.  
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
 
-## Important Tips 
+## Important Tips!
 Note that our JL-DCF model was trained on depth maps which satisfy the rule that closer objects present lower depth values (are "black"), 
 while further objects have higher depth values (are "white"). Although these depth maps are normalized into the range [0, 1], such a rule is enforced 
 to meet physical common sense. We observed that the model performance would somewhat degrade when using reversed maps during testing. <strong>So be aware of this issue when testing the models.</strong>
 Anyway, the training and testing settings should always be kept consistent.
-
 ![alt text](./figures/Depth.png)
 
 ## Dataset
