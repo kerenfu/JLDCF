@@ -49,6 +49,7 @@ while further objects have higher depth values (are "white"). Although these dep
 to meet physical common sense. We observed that the model performance would somewhat degrade when using reversed maps during testing. <strong>So be aware of this issue when testing the models.</strong>
 Anyway, the training and testing settings should always be kept consistent.
 
+![alt text](./figures/Depth.png)
 
 ## Dataset
 Our training dataset is  
