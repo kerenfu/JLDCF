@@ -2,7 +2,8 @@
 JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection (CVPR2020) [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)][[中文版](http://dpfan.net/wp-content/uploads/cvpr2020JLDCF_CameraReady_Chinese_final.pdf)]  
 Siamese Network for RGB-D Salient Object Detection and Beyond (TPAMI2021) [[PDF](https://arxiv.org/pdf/2008.12134.pdf)][[中文版](http://www.kerenfu.top/sources/2021tpamijldcf-cn.pdf)]  
 -Testing code is released!  
--:fire:**News!!!**:fire: The Pytorch implementation (**Training & Testing**) of JL-DCF is now released! Please step to the new [Project Page](https://github.com/jiangyao-scu/JL-DCF-pytorch) for more information.
+-:fire:**News!!!**:fire: The Pytorch implementation (**Training & Testing**) of JL-DCF is now released! Please step to the new [Project Page](https://github.com/jiangyao-scu/JL-DCF-pytorch) for more information.  
+-Notice that there was a small description mistake in our papers that the NJU2K dataset indeed has 1,985 samples (with which we actually experimented with), rather than 2,000. 
 
 ![alt text](./figures/JL-DCF_framework.png)
 
