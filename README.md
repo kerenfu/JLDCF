@@ -46,10 +46,12 @@ References of datasets:
 
 ## Important Tips!
 Note that our JL-DCF model was trained on depth maps which satisfy the rule that closer objects present lower depth values (are "black"), 
-while further objects have higher depth values (are "white"). Although these depth maps are normalized into the range [0, 1], such a rule is enforced 
-to meet physical common sense. We observed that the model performance would somewhat degrade when using reversed maps during testing. <strong>So be aware of this issue when testing the models.</strong>
-Anyway, the training and testing settings should always be kept consistent.
+while further objects have higher depth values (are "white"). such a rule is enforced in order to meet physical common sense. We observed that the model performance would somewhat degrade when using reversed maps (e.g., disparity maps) during testing. <strong>So be aware of the following issues when testing the models: </strong>
+1. Depth maps are min-max normalized into [0, 1] or [0, 255].
+2. Closer objects present lower depth values (are "black").
 ![alt text](./figures/Depth.png)
+
+ Although these depth maps are normalized into the range [0, 1],
 
 ## Dataset
 Our training dataset is  
