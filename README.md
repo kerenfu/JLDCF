@@ -51,7 +51,6 @@ while further objects have higher depth values (are "white"). such a rule is enf
 2. Closer objects present lower depth values (are "black").
 ![alt text](./figures/Depth.png)
 
- Although these depth maps are normalized into the range [0, 1],
 
 ## Dataset
 Our training dataset is  
