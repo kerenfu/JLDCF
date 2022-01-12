@@ -44,8 +44,8 @@ References of datasets:
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.  
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
 
-As some researchers require, results of our JL-DCF model on SSD dataset (having 80 samples) can be found below:
-链接: https://pan.baidu.com/s/18q3YNCfEv9o5uwMUeJ3rgw 提取码: drir 
+:fire:As some researchers require, results of our JL-DCF model on SSD dataset (having 80 samples) can be found below:
+链接: https://pan.baidu.com/s/18q3YNCfEv9o5uwMUeJ3rgw 提取码: drir  
 or:  
 Google link comes soon...  
 
