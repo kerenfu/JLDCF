@@ -44,6 +44,15 @@ References of datasets:
   [DUT-RGBD] Depth-induced multi-scale recurrent attention network for saliency detection. In ICCV 2019.  
   [SIP] Rethinking RGB-D salient object detection: Models, datasets, and large-scale benchmarks. IEEE TNNLS, 2020.  
 
+As some researchers require, results of our JL-DCF model on SSD dataset (having 80 samples) can be found below:
+链接: https://pan.baidu.com/s/18q3YNCfEv9o5uwMUeJ3rgw 提取码: drir 
+or:  
+Google link comes soon...  
+
+References of dataset:  
+  [SSD] A three-pathway psychobiological framework of salient object detection using stereoscopic technology. In ICCVW 2017.  
+
+
 ## Important Tips!
 Note that our JL-DCF model was trained on depth maps which satisfy the rule that closer objects present lower depth values (are "black"), 
 while further objects have higher depth values (are "white"). such a rule is enforced in order to meet physical common sense. We observed that the model performance would somewhat degrade when using reversed maps (e.g., disparity maps) during testing. <strong>So be aware of the following issues when testing the models: </strong>
